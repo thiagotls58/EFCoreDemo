@@ -1,0 +1,11 @@
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\bin\Debug\netcoreapp2.2\Batching.deps.json
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\bin\Debug\netcoreapp2.2\Batching.runtimeconfig.json
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\bin\Debug\netcoreapp2.2\Batching.runtimeconfig.dev.json
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\bin\Debug\netcoreapp2.2\Batching.dll
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\bin\Debug\netcoreapp2.2\Batching.pdb
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\obj\Debug\netcoreapp2.2\Batching.csprojAssemblyReference.cache
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\obj\Debug\netcoreapp2.2\Batching.csproj.CoreCompileInputs.cache
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\obj\Debug\netcoreapp2.2\Batching.AssemblyInfoInputs.cache
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\obj\Debug\netcoreapp2.2\Batching.AssemblyInfo.cs
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\obj\Debug\netcoreapp2.2\Batching.dll
+c:\Users\thiago\Documents\GitHub\EFCoreDemo\Batching\obj\Debug\netcoreapp2.2\Batching.pdb
