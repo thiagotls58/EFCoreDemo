@@ -1,0 +1,11 @@
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\bin\Debug\netcoreapp2.2\Introducao.deps.json
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\bin\Debug\netcoreapp2.2\Introducao.runtimeconfig.json
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\bin\Debug\netcoreapp2.2\Introducao.runtimeconfig.dev.json
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\bin\Debug\netcoreapp2.2\Introducao.dll
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\bin\Debug\netcoreapp2.2\Introducao.pdb
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\obj\Debug\netcoreapp2.2\Introducao.csprojAssemblyReference.cache
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\obj\Debug\netcoreapp2.2\Introducao.csproj.CoreCompileInputs.cache
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\obj\Debug\netcoreapp2.2\Introducao.AssemblyInfoInputs.cache
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\obj\Debug\netcoreapp2.2\Introducao.AssemblyInfo.cs
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\obj\Debug\netcoreapp2.2\Introducao.dll
+C:\Users\thiago\Documents\GitHub\EFCoreDemo\Introducao\obj\Debug\netcoreapp2.2\Introducao.pdb
